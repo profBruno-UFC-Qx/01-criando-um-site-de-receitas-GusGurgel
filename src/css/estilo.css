@@ -1,0 +1,12 @@
+body {
+    width: 600px;
+}
+
+p {
+    text-align: justify;
+}
+
+ol li {
+    padding-bottom: 10px;
+    text-align: justify;
+}
